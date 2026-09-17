@@ -9,6 +9,7 @@
 - `assets/style.css` — スタイル
 - `assets/script.js` — ヘッダーのスクロール反応、スクロールインジケーター、フェードイン演出、モバイルメニュー
 - `assets/images/car-coupe.jpg` — [Pexels](https://www.pexels.com/photo/white-sports-coupe-733745/) のフリー素材（Pexelsライセンス、商用利用可・クレジット表記不要、撮影者: Cesar Perez）
+- `assets/images/hero-supercars.jpg` — [Pexels](https://www.pexels.com/photo/lineup-of-luxurious-supercars-at-outdoor-exhibition-30706140/) のフリー素材（Pexelsライセンス、商用利用可・クレジット表記不要、撮影者: Quentin Martinez）
 
 ## ローカルで確認する
 
